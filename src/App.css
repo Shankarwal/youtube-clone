@@ -1,0 +1,19 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background: #489ed8;
+} */
+
+.search-bar {
+  color: #333;
+  background-color: #fff;
+  border: none;
+  width: 18rem;
+}
+
+input:focus,
+input:active {
+  outline: none;
+}
